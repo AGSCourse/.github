@@ -1,1 +1,29 @@
 # The African Genomics Short Course 
+Genomics is rapidly transforming biomedical research, health, and innovation globally. 
+In Africa, growing investment in infrastructure, data, and networks has created momentum 
+to harness genomics to address local and global health challenges, biodiversity, and development. 
+However, achieving this potential requires coordinated efforts to build research capacity, 
+ensure equitable data generation and access, and strengthen African leadership across the 
+genomics ecosystem.
+
+This inaugural short course is a flagship collaboration between the **African Society of Human Genetics (AfSHG)**, 
+the **University of Cape Town (UCT)**, faculty members from African universities, **Wellcome Connecting Science**, 
+**The Jackson Laboratory**, **John Hopkins University** and a growing network of regional and global partners committed 
+to advancing genomics in Africa. Designed to reflect the continent’s pivotal role in the history and future of genomics, 
+this intensive 10-day residential course brings together early and mid-career researchers from across Africa to build 
+interdisciplinary knowledge, strengthen practical skills, and develop leadership capacity to advance genomics research. 
+Participants will critically explore foundational and emerging topics in genomics, engage in hands-on analysis using 
+accessible tools and datasets, and examine case studies rooted in African-led initiatives. The course will also highlight 
+ethical research practices, with a focus on local and global contexts and how research can be applied equitably.
+
+Through practical sessions, expert-led seminars, peer exchange, and project-based learning, 
+the course will also provide a platform to strengthen networks, nurture innovation, and support 
+participants to become catalysts for sustainable capacity development in their home institutions and countries.
+
+## Target audience
+This course is aimed at researchers and clinical professionals based in Africa who are actively engaged in genomics, 
+bioinformatics, or closely related fields. It is particularly suited for early to mid-career scientists, including 
+advanced PhD students, postdoctoral researchers, and healthcare professionals (e.g. clinicians, genetic counsellors, 
+lab scientists) contributing to genomics research or its application in healthcare. Ideal candidates will have some 
+hands-on experience in generating or analysing genomic data, and a demonstrated commitment to strengthening research 
+and training capacity within their institutions or regions.
