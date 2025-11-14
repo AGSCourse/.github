@@ -58,3 +58,7 @@ _Under development_
 - [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/): Wellcome Connecting Science, UK
 - Kita Magangana: University of Cape Town, South Africa
 
+### For more Information
+Visit [African Genomics Short Course](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/) course page.
+
+## Citing and Re-using Course Material
