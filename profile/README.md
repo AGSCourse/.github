@@ -59,6 +59,7 @@ _Under development_
 - Kita Magangana: University of Cape Town, South Africa
 
 ### For more Information
-Visit [African Genomics Short Course](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/) course page.
+Visit [African Genomics Short Course](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/) course page at Wellcome Connecting Science.
 
 ## Citing and Re-using Course Material
+_Under development_
