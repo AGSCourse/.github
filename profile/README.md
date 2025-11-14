@@ -22,8 +22,19 @@ participants to become catalysts for sustainable capacity development in their h
 
 ## Target audience
 This course is aimed at researchers and clinical professionals based in Africa who are actively engaged in genomics, 
-bioinformatics, or closely related fields. It is particularly suited for early to mid-career scientists, including 
-advanced PhD students, postdoctoral researchers, and healthcare professionals (e.g. clinicians, genetic counsellors, 
+bioinformatics, or closely related fields. It is particularly suited for **early to mid-career scientists**, including 
+**advanced PhD students**, **postdoctoral researchers**, and **healthcare professionals** (e.g. clinicians, genetic counsellors, 
 lab scientists) contributing to genomics research or its application in healthcare. Ideal candidates will have some 
 hands-on experience in generating or analysing genomic data, and a demonstrated commitment to strengthening research 
 and training capacity within their institutions or regions.
+
+---
+
+## Learning outcomes
+**By the end of the course, participants will be able to:**
+- Critically evaluate foundational concepts in genomics and bioinformatics in-relation to African research priorities.
+- Apply advanced practical skills to generate, analyse, and interpret genomic data using accessible tools and workflows.
+- Assess and integrate ethical, equitable, and context-specific considerations into genomics research.
+- Analyse the potential and limitations of genomics technologies to advance health and scientific discovery.
+- Demonstrate leadership, collaboration, and professional reflective practice to support African genomics capacity.
+
