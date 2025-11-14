@@ -1,4 +1,8 @@
 # The African Genomics Short Course 
+
+---
+
+## Summary
 Genomics is rapidly transforming biomedical research, health, and innovation globally. 
 In Africa, growing investment in infrastructure, data, and networks has created momentum 
 to harness genomics to address local and global health challenges, biodiversity, and development. 
