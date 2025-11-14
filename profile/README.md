@@ -42,3 +42,19 @@ and training capacity within their institutions or regions.
 - Analyse the potential and limitations of genomics technologies to advance health and scientific discovery.
 - Demonstrate leadership, collaboration, and professional reflective practice to support African genomics capacity.
 
+---
+
+## Course Instructors
+_Under development_
+
+## Organizers
+- [Ambroise Wonkam](https://profiles.hopkinsmedicine.org/provider/ambroise-wonkam/2702485), Johns Hopkins University, USA
+- [Vicky Nembaware](https://www.researchgate.net/profile/Victoria-Nembaware-2): University of Cape Town, South Africa
+- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/): Wellcome Connecting Science, UK
+- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#): Wellcome Connecting Science, UK
+- [Rolanda Julius](https://www.linkedin.com/in/rolanda-julius-a4b94452/?originalSubdomain=za): University of Cape Town, South Africa
+- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/): Wellcome Connecting Science, UK
+- [Chandré Oosterwyk-Liu](https://www.linkedin.com/in/chandr%C3%A9-oosterwyk-liu-9a353b179/?originalSubdomain=za): University of Cape Town, South Africa
+- [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/): Wellcome Connecting Science, UK
+- Kita Magangana: University of Cape Town, South Africa
+
