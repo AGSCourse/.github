@@ -44,9 +44,6 @@ and training capacity within their institutions or regions.
 
 ---
 
-## Course Instructors
-_Under development_
-
 ## Organizers
 - [Ambroise Wonkam](https://profiles.hopkinsmedicine.org/provider/ambroise-wonkam/2702485), Johns Hopkins University, USA
 - [Vicky Nembaware](https://www.researchgate.net/profile/Victoria-Nembaware-2): University of Cape Town, South Africa
