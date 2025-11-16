@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h1>Some Header</h1>h
+  <h1>Some Header</h1>
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
 
