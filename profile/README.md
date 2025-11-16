@@ -62,5 +62,35 @@ and training capacity within their institutions or regions.
 ### For more Information
 Visit [African Genomics Short Course](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/) course page at Wellcome Connecting Science.
 
+---
+
+## :brain: Course Repository Design Concept
+The design of the AGSC GitHub organization page was inspired by the Wellcome Connecting Science
+(WCS) GitHub course [page](https://github.com/WCSCourses). The main difference between the two designs
+is that the WCS runs different courses in different iterations each year while the AGSC is a single course 
+run each year. The main design change is therefore the file structure.
+
+In the AGSC, each course directory represents an iteration of the course indicated by the year it was
+run in. This also means the organization landing page doubles as the main landing page for all the iterations that 
+summarizes the course objectives and activities as oppsed to the WCS which hosts a separate landing page for each 
+course summarizing the course objectives and activities. 
+
+In AGSC, the course landing is simple: it lists the modules, course run information, instructors, and support staff.
+
+A key similarity between the AGSC and WCSC is the availability of **Template_Course_Repo** repository which contains 
+the typical file structure for the iterations from which each iteration repository can be easily created.
+
+## Content of each course iteration
+Each course iteration is named AGSC\_year (e.g. AGSC\_2025).
+
+Below is the file structure for each iteration directory.
+```
+
+```
+- **data**: folder which contains all relevant data needed to run
+that iteration. This is all datasets essential for practical exercises and aby supplementary data. For
+guide on preparing content for the `data` directory and best practices, click [here](data/REAMDE.md).
+
+
 ## Citing and Re-using Course Material
 _Under development_
