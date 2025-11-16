@@ -93,26 +93,7 @@ Below is the file structure for each iteration directory.
 │   ├── figures
 │   │   └── agsc.png
 │   └── README.md
-├── module_2
-│   ├── figures
-│   │   └── agsc.png
-│   └── README.md
-├── module_3
-│   ├── figures
-│   │   └── agsc.png
-│   └── README.md
-├── module_4
-│   ├── figures
-│   │   └── agsc.png
-│   └── README.md
-├── module_5
-│   ├── figures
-│   │   └── agsc.png
-│   └── README.md
-├── module_6
-│   ├── figures
-│   │   └── agsc.png
-│   └── README.md
+...
 ├── module_7
 │   ├── figures
 │   │   └── agsc.png
