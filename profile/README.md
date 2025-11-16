@@ -2,7 +2,7 @@
 
 
 <div>
-  <p align="center;">A piece of centered text</p>
+  <p align="center">A piece of centered text</p>
 </div>
 
 
