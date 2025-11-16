@@ -6,7 +6,7 @@
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
 
-## Summary
+## 📄 Summary
 Genomics is rapidly transforming biomedical research, health, and innovation globally. 
 In Africa, growing investment in infrastructure, data, and networks has created momentum 
 to harness genomics to address local and global health challenges, biodiversity, and development. 
