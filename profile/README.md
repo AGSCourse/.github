@@ -4,9 +4,11 @@
   <p style="text-align: center;">A piece of centered text</p>
 </div>
 
+<div>
 <p align="center">
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
+</div>
 
 ## Summary
 Genomics is rapidly transforming biomedical research, health, and innovation globally. 
