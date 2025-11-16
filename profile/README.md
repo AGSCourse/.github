@@ -1,7 +1,7 @@
 # The African Genomics Short Course
 
 <p align="center">
-<h1 style="text-align:center;">Your Centered Heading</h1>
+  <h1 style="text-align:center;">Your Centered Heading</h1>
 </p>
 
 <p align="center">
