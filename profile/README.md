@@ -81,7 +81,7 @@ A key similarity between the AGSC and WCSC is the **Template_Course_Repo** repos
 file structure from each iterations repository can be easily created.
 
 ## Content of each course iteration
-Each course iteration is named AGSC\_year (e.g. AGSC\_2025).
+Each course iteration is named **AGSC\_year** (e.g. **AGSC\_2025**).
 
 Below is the file structure for each iteration directory.
 ```sh
@@ -130,7 +130,7 @@ any related visuals.
 ---
 
 ## Description of the various folders and best practices
-`data`:
+**`data`**:
 
 It contains all relevant data needed to run
 that iteration. This is all datasets essential for practical exercises and aby supplementary data. For
