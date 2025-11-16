@@ -127,12 +127,33 @@ folder, `module` folders, and a `seminar_slides` folder. Each folder contains a 
 important information about the content of the folder. Each `module` folder contains a `figures` folder for 
 any related visuals.
 
-### Description of the various folders and best practices
+---
+
+## Description of the various folders and best practices
 `data`:
-    It contains all relevant data needed to run
+
+It contains all relevant data needed to run
 that iteration. This is all datasets essential for practical exercises and aby supplementary data. For
 guide on preparing content for the `data` directory and best practices, click [here](data/REAMDE.md).
 
+`module_{1..7}`:
+
+Contain the module presentations, manuals, figures, and any supplentary resources.
+
+Below are best practives for naming module materials:
+- File names should be descriptive
+- Use lowercase throughout
+- Seperate words with underscores
+- Include run day and time period
+- Preferred formats: PDF and MARKDOWN (therefore convert PowerPoint to PDF to upload to GitHub)
+- Examples:
+  - `foundations_of_genetics_and_genomics_day2.pdf`
+  - `sequencing_and_genotyping_workflows_day4.md`
+  - `principles_of_evolution_and_popgen_day3.pdf`
+  - `sequence_data_analysis_and_visualization_day5.pdf`
+  - `meta-analysis_and_dataset_reuse_day9.md`
+
+---
 
 ## Citing and Re-using Course Material
 _Under development_
