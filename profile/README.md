@@ -6,7 +6,7 @@
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
 
-## 📄 Summary
+## :page_facing_up: Summary
 Genomics is rapidly transforming biomedical research, health, and innovation globally. 
 In Africa, growing investment in infrastructure, data, and networks has created momentum 
 to harness genomics to address local and global health challenges, biodiversity, and development. 
@@ -28,7 +28,7 @@ Through practical sessions, expert-led seminars, peer exchange, and project-base
 the course will also provide a platform to strengthen networks, nurture innovation, and support 
 participants to become catalysts for sustainable capacity development in their home institutions and countries.
 
-## Target audience
+## :dart: Target audience
 This course is aimed at researchers and clinical professionals based in Africa who are actively engaged in genomics, 
 bioinformatics, or closely related fields. It is particularly suited for **early to mid-career scientists**, including 
 **advanced PhD students**, **postdoctoral researchers**, and **healthcare professionals** (e.g. clinicians, genetic counsellors, 
@@ -38,7 +38,7 @@ and training capacity within their institutions or regions.
 
 ---
 
-## Learning outcomes
+## :memo: Learning outcomes
 **By the end of the course, participants will be able to:**
 - Critically evaluate foundational concepts in genomics and bioinformatics in-relation to African research priorities.
 - Apply advanced practical skills to generate, analyse, and interpret genomic data using accessible tools and workflows.
@@ -59,7 +59,7 @@ and training capacity within their institutions or regions.
 - [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/): Wellcome Connecting Science, UK
 - Kita Magangana: University of Cape Town, South Africa
 
-### For more Information
+### :information_source: For more Information
 Visit [African Genomics Short Course](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/) course page at Wellcome Connecting Science.
 
 ---
