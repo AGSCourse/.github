@@ -120,8 +120,15 @@ Below is the file structure for each iteration directory.
 ├── README.md
 └── seminar_slides
     └── README.md
-
 ```
+
+---
+
+- Each course (iteration) directory contains a `README.md` file that reprensents the landing page `data` 
+folder, `module` folders, and a `seminar_slides` folder.
+- Each folder contains a `README.md` file describing important information about the content of the folder. 
+- Each `module` folder contains a `figures` folder for any related visuals.
+
 - **data**: folder which contains all relevant data needed to run
 that iteration. This is all datasets essential for practical exercises and aby supplementary data. For
 guide on preparing content for the `data` directory and best practices, click [here](data/REAMDE.md).
