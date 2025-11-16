@@ -1,10 +1,8 @@
+# The African Genomics Short Course 
+
 <p align="center">
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
-
-# The African Genomics Short Course 
-
----
 
 ## Summary
 Genomics is rapidly transforming biomedical research, health, and innovation globally. 
