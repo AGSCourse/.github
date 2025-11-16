@@ -1,8 +1,10 @@
 # The African Genomics Short Course
 
+
 <div>
-  <p style="text-align: center;">A piece of centered text</p>
+  <p align="center;">A piece of centered text</p>
 </div>
+
 
 <div>
 <p align="center">
