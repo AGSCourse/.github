@@ -84,7 +84,7 @@ file structure from each iterations repository can be easily created.
 Each course iteration is named AGSC\_year (e.g. AGSC\_2025).
 
 Below is the file structure for each iteration directory.
-```
+```sh
 .
 ├── data
 │   └── README.md
