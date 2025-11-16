@@ -145,7 +145,7 @@ Below are best practives for naming module materials:
 - Use lowercase throughout
 - Seperate words with underscores
 - Include run day and time period
-- Preferred formats: PDF and MARKDOWN (therefore convert PowerPoint to PDF to upload to GitHub)
+- Preferred formats: PDF and Markdown (therefore convert PowerPoint to PDF to upload to GitHub)
 - Examples:
   - `foundations_of_genetics_and_genomics_day2.pdf`
   - `sequencing_and_genotyping_workflows_day4.md`
@@ -156,7 +156,10 @@ Below are best practives for naming module materials:
 `seminar_slides`:
 
 Contains slides from seminars and keynotes for presenters who consent to making their presentations publicly
-available.
+available. It cal also contain: 
+ - Supplementary instructional materials (Markdown, PDF)
+ - Speaker notes (Text files)
+
 
 
 ---
