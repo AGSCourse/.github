@@ -136,7 +136,7 @@ It contains all relevant data needed to run
 that iteration. This is all datasets essential for practical exercises and aby supplementary data. For
 guide on preparing content for the `data` directory and best practices, click [here](data/REAMDE.md).
 
-`module_{1..7}`:
+**`module_{1..7}`**:
 
 Contain the module presentations, manuals, figures, and any supplentary resources.
 
@@ -153,7 +153,7 @@ Below are best practives for naming module materials:
   - `sequence_data_analysis_and_visualization_day5.pdf`
   - `meta-analysis_and_dataset_reuse_day9.md`
 
-`seminar_slides`:
+**`seminar_slides`**:
 
 Contains slides from seminars and keynotes for presenters who consent to making their presentations publicly
 available. It cal also contain: 
