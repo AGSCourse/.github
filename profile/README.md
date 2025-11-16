@@ -1,4 +1,6 @@
-![agsc-logo](https://github.com/AGSCourse/.github/blob/main/profile/agsc.png)
+<div style="text-align: center;">
+  ![agsc-logo](https://github.com/AGSCourse/.github/blob/main/profile/agsc.png)
+</div>div
 
 # The African Genomics Short Course 
 
