@@ -114,7 +114,7 @@ any related visuals.
 **`data`**:
 
 It contains all relevant data needed to run
-that iteration. This is all datasets essential for practical exercises and aby supplementary data. The `data` `README.md` 
+that iteration. That is all datasets essential for practical exercises and any supplementary data. The `data` `README.md` 
 file has guide on preparing content for the `data` directory and best practices.
 
 **`module_{1..7}`**:
