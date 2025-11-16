@@ -85,6 +85,41 @@ Each course iteration is named AGSC\_year (e.g. AGSC\_2025).
 
 Below is the file structure for each iteration directory.
 ```
+.
+├── data
+│   └── README.md
+├── design_concept.md
+├── module_1
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── module_2
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── module_3
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── module_4
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── module_5
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── module_6
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── module_7
+│   ├── figures
+│   │   └── agsc.png
+│   └── README.md
+├── README.md
+└── seminar_slides
+    └── README.md
 
 ```
 - **data**: folder which contains all relevant data needed to run
