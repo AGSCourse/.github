@@ -119,25 +119,25 @@ file has guide on preparing content for the `data` directory and best practices.
 
 **`module_{1..7}`**:
 
-Contain the module presentations, manuals, figures, and any supplentary resources.
+Contain the module presentations, manuals, figures, and any supplementary resources.
 
-Below are best practives for naming module materials:
+Below are best practices for naming module materials:
 - File names should be descriptive
 - Use lowercase throughout
 - Seperate words with underscores
-- Include run day and time period
-- Preferred formats: PDF and Markdown (therefore convert PowerPoint to PDF to upload to GitHub)
+- Include run day and time period: `am` means morning, `pm` means afternoon.
+- Preferred file formats: PDF and Markdown (therefore convert PowerPoint to PDF to upload to GitHub)
 - Examples:
-  - `foundations_of_genetics_and_genomics_day2.pdf`
-  - `sequencing_and_genotyping_workflows_day4.md`
-  - `principles_of_evolution_and_popgen_day3.pdf`
-  - `sequence_data_analysis_and_visualization_day5.pdf`
-  - `meta-analysis_and_dataset_reuse_day9.md`
+  - `foundations_of_genetics_and_genomics_day2_am.pdf`
+  - `sequencing_and_genotyping_workflows_day4_am.md`
+  - `principles_of_evolution_and_popgen_day3_pm.pdf`
+  - `sequence_data_analysis_and_visualization_day5_am.pdf`
+  - `meta-analysis_and_dataset_reuse_day9_pm.md`
 
 **`seminar_slides`**:
 
 Contains slides from seminars and keynotes for presenters who consent to making their presentations publicly
-available. It cal also contain: 
+available. It can also contain: 
  - Supplementary instructional materials (Markdown, PDF)
  - Speaker notes (Text files)
 
