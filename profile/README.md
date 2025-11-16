@@ -1,11 +1,9 @@
 # The African Genomics Short Course
 
-<p align="center">
-  <h1 style="text-align:center;">Your Centered Heading</h1>
-</p>
+<p style="text-align: center;">A piece of centered text</p>
+
 
 <p align="center">
-  <h1>Some Header</h1>
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
 
