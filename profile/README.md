@@ -1,6 +1,7 @@
-# The African Genomics Short Course 
-<p style="text-align:center;">The African Genomics Short Course.</p>
+# The African Genomics Short Course
 
+<h1 style="text-align:center;">Your Centered Heading</h1>
+ 
 <p align="center">
   <img width="200" height="200" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </p>
