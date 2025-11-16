@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img width="50%" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
+  <img width="30%" src="https://github.com/AGSCourse/.github/blob/main/profile/agsc.png">
 </div>
 
 # The African Genomics Short Course 
