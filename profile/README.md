@@ -75,10 +75,10 @@ run in. This also means the organization landing page doubles as the main landin
 summarizes the course objectives and activities as oppsed to the WCS which hosts a separate landing page for each 
 course summarizing the course objectives and activities. 
 
-In AGSC, the course landing is simple: it lists the modules, course run information, instructors, and support staff.
+In AGSC, the course landing page is simple: it lists the modules, course run information, instructors, and support staff.
 
-A key similarity between the AGSC and WCSC is the availability of **Template_Course_Repo** repository which contains 
-the typical file structure for the iterations from which each iteration repository can be easily created.
+A key similarity between the AGSC and WCSC is the **Template_Course_Repo** repository which contains the template 
+file structure from each iterations repository can be easily created.
 
 ## Content of each course iteration
 Each course iteration is named AGSC\_year (e.g. AGSC\_2025).
