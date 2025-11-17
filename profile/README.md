@@ -118,7 +118,7 @@ file has guide on preparing content for the `data` directory and best practices.
 
 **`module_{1..7}`**:
 
-Contain the module presentations, manuals, figures, and any supplementary resources.
+Contain the module presentations, manuals, figures, and any supplementary resources, including scripts, ipython notebooks, etc.
 
 Below are best practices for naming module materials:
 - File names should be descriptive
@@ -132,6 +132,7 @@ Below are best practices for naming module materials:
   - `principles_of_evolution_and_popgen_day3_pm.pdf`
   - `sequence_data_analysis_and_visualization_day5_am.pdf`
   - `meta-analysis_and_dataset_reuse_day9_pm.md`
+
 
 **`seminar_slides`**:
 
